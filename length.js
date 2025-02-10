@@ -15,6 +15,6 @@ console.log(fourth); // 45
 //set ot update elements value bu index
 let abc = 45;
 abc = 67;
-
+ 
 numbers[1] = 8777;
 console.log(numbers[1]); // 8777
